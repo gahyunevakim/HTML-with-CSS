@@ -1,0 +1,35 @@
+/* Tag selectors */
+
+body {
+    background-color: bisque;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 5px;
+    border-color: lightcoral;
+    width: 20%;
+}
+
+img:hover {
+    background-color: cornflowerblue;
+}
+
+
+/* class selectors */
+
+.dog {
+    background-color: lightsalmon;
+}
+
+.tangerine {
+    background-color: green;
+}
+
+/* id selectors */
+
+#big {
+    color: darkolivegreen;
+    font-size: 40px;
+}
